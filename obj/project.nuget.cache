@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VToAd4f1j99TXdyDl8MZ1sMPVzgLAQxafe/dTONQWWZHzFU6NOMqMW2SCbPWDz2Ix97UTbCMJVtWBBBYcH/eCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thanh\\Desktop\\EC312.L21-Thiết kế hệ thống TMĐT\\Lab 3 - Web Crawler\\1. Web Crawler Demo\\TikiCrawler\\TikiCrawler\\TikiCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thanh\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\Thanh\\.nuget\\packages\\filehelpers\\3.5.1\\filehelpers.3.5.1.nupkg.sha512",
+    "C:\\Users\\Thanh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Thanh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Thanh\\.nuget\\packages\\selenium.support\\4.0.1\\selenium.support.4.0.1.nupkg.sha512",
+    "C:\\Users\\Thanh\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512",
+    "C:\\Users\\Thanh\\.nuget\\packages\\selenium.webdriver.chromedriver\\95.0.4638.1700\\selenium.webdriver.chromedriver.95.0.4638.1700.nupkg.sha512"
+  ],
+  "logs": []
+}

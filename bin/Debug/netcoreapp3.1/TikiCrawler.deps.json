@@ -1,0 +1,130 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TikiCrawler/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "27.1.1",
+          "FileHelpers": "3.5.1",
+          "Selenium.Support": "4.0.1",
+          "Selenium.WebDriver": "4.0.1",
+          "Selenium.WebDriver.ChromeDriver": "95.0.4638.1700"
+        },
+        "runtime": {
+          "TikiCrawler.dll": {}
+        }
+      },
+      "CsvHelper/27.1.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/CsvHelper.dll": {
+            "assemblyVersion": "27.0.0.0",
+            "fileVersion": "27.1.1.0"
+          }
+        }
+      },
+      "FileHelpers/3.5.1": {
+        "runtime": {
+          "lib/netstandard2.0/FileHelpers.dll": {
+            "assemblyVersion": "3.5.1.0",
+            "fileVersion": "3.5.1.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Selenium.Support/4.0.1": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebDriver.Support.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/95.0.4638.1700": {}
+    }
+  },
+  "libraries": {
+    "TikiCrawler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvHelper/27.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lo5yypClBORR2XiWPRxQApaA4C2R4GVCIPVRt9HfaLxLmVQtg/KZiOYsd4luLgyOxkUatF9R0QdFQYk7Y2l0cw==",
+      "path": "csvhelper/27.1.1",
+      "hashPath": "csvhelper.27.1.1.nupkg.sha512"
+    },
+    "FileHelpers/3.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+JCzv1mlFL/jthFQgLZj4Zo2hTDzPvue+Knpp+kPYL/Wcf6ROQBiT7Horyv4s6RW69Bcokm3mDYo67fz+/e2Vw==",
+      "path": "filehelpers/3.5.1",
+      "hashPath": "filehelpers.3.5.1.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Selenium.Support/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-etpyAuRCvraAyfoH1D4V83UJbgeqUZzGNkPV8oGBNPFC/sIelIW4cAMp8mRY34qD4l1D5pIY8ssy5XVSvIl2tg==",
+      "path": "selenium.support/4.0.1",
+      "hashPath": "selenium.support.4.0.1.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-givS6L7wz4QupkyaNN7FwEl4trOHg1vfrSYmG0bGB3+QRPsDNcWUsbC70r6nB5JfbhNrKjZDPspAt0MYAB78Ig==",
+      "path": "selenium.webdriver/4.0.1",
+      "hashPath": "selenium.webdriver.4.0.1.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/95.0.4638.1700": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RuziiapHW2Yhw77AuvWmACzPOjjw7QdoSh9rhXxB+brO5ihsJE4V3xVY7tYX1VxKJOjRjB6ITAzmavlA1StkGw==",
+      "path": "selenium.webdriver.chromedriver/95.0.4638.1700",
+      "hashPath": "selenium.webdriver.chromedriver.95.0.4638.1700.nupkg.sha512"
+    }
+  }
+}
